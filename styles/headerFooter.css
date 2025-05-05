@@ -1,0 +1,60 @@
+.joice{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+  color: #fff;
+  margin: 15px;
+}
+
+/* Estilização Menu */
+#menu {
+  background-color: rgb(65, 18, 97);
+  color: #fff;
+  text-align: left;
+  padding: 15px;
+}
+
+#menu a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+  font-size: 20px;
+  margin: 15px;
+}
+
+#menu a:hover {
+  color: rgb(65, 18, 97);
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+#menu a.current {
+  color: rgb(65, 18, 97);
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+/* Estilização Rodapé */
+#rodape {
+  width: auto;
+  background-color: rgb(65, 18, 97);
+  padding: 10px;
+  margin-top: 50px;
+  color: #fff;
+}
+
+
+#rodape p {
+  color: #fff;
+  padding: 10px;
+  font-size: small;
+  text-align: right;
+}
+
+#rodape a{
+  color: #fff;
+  text-decoration: none;
+  text-align: right;
+}

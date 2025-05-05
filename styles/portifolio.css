@@ -1,0 +1,38 @@
+.jobs {
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    color: #5C07A1;
+    width: 920px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.job {
+    text-align: left;
+    font-weight: lighter;
+    font-size: large;
+    color: #5C07A1;
+
+    align-items: center;
+    width: 800px;
+    margin: 25px auto;
+    background-color: rgba(65, 18, 97, 0.041);
+    padding: 15px;
+}
+
+.job a{
+  text-decoration: none;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.job a:hover{
+    color: #fff;
+    background-color: #4C5891;
+  }

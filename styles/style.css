@@ -1,0 +1,88 @@
+/* Reset de estilos css */
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.144);
+}
+
+.conteudo {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 920px;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.conteudo h1{
+background: rgb(65, 18, 97);
+color: #fff;
+border-radius: 10px;
+padding: 10px;
+margin: 10px;
+}
+
+.conteudo h2{
+  background: rgba(65, 18, 97, 0.274);
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  }
+
+.conteudo a{
+  text-decoration: none;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  background-color: #fff;
+  border-radius: 10px;
+  color: black;
+  padding: 9px;
+}
+
+.conteudo a:hover{
+  color: #fff;
+  background-color: black;
+}
+
+.conteudo p {
+  text-align: left;
+  padding: 20px;
+}
+
+.conteudo img{
+  width: 30px;
+}
+
+
+/*estilo do botão linkedin*/
+.contato a {
+  text-decoration: none;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  color: #0077B5;
+  background-color: #fff;
+}
+
+.contato a:hover { 
+  color: #fff;
+  background-color: #0077B5;
+}
+
+/*estilo do botão github*/
+.github a {
+  text-decoration: none;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  color: black;
+  background-color: #fff;
+}
+
+.github a:hover { 
+  color: #fff;
+  background-color: black;
+}
